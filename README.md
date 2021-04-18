@@ -1,5 +1,3 @@
-# URL_Shortner
-
 # This project is being created for generating tiny url from long url string.
 
 1) For generating tiny links
